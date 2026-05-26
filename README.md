@@ -1,1 +1,5 @@
-# Repositoriy---bilan-tanishuv
+<h1>SALOM DUNYO</h1>
+<p>MEN HAQIMDA</p>
+<P>SHARIPOV BILOL</P>
+<P>2013.05.10</P>
+<p>TOSHKENT SHAHAR CHILONZOR TUMANI</p>
